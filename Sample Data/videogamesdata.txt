@@ -1,0 +1,19 @@
+2,Elden Ring,PC,RPG,59.99,95.0,true,2022
+3,Minecraft,PC,Sandbox,26.95,300.0,false,2011
+4,God of War,PlayStation 4,Action,49.99,45.0,true,2018
+5,Halo Infinite,Xbox Series X,Shooter,59.99,60.0,false,2021
+6,Stardew Valley,PC,Simulation,14.99,150.0,false,2016
+7,Red Dead Redemption 2,PlayStation 4,Action-Adventure,59.99,110.0,true,2018
+8,Cyberpunk 2077,PC,RPG,59.99,70.0,false,2020
+9,The Witcher 3,PC,RPG,39.99,140.0,true,2015
+10,Grand Theft Auto V,PC,Action,29.99,200.0,false,2013
+11,Super Mario Odyssey,Nintendo Switch,Platformer,59.99,40.0,true,2017
+12,Fortnite,PC,Battle Royale,0.0,220.0,false,2017
+13,Assassin’s Creed Valhalla,Xbox Series X,Action-Adventure,59.99,85.0,true,2020
+15,League of Legends,PC,MOBA,0.0,500.0,false,2009
+16,Call of Duty: Modern Warfare II,PlayStation 5,Shooter,69.99,75.0,false,2022
+17,Resident Evil Village,PlayStation 5,Survival Horror,59.99,25.0,true,2021
+18,Terraria,PC,Sandbox,9.99,180.0,false,2011
+19,Monster Hunter World,PC,Action RPG,29.99,130.0,false,2018
+14,Uncharted,PC,Action-Adventure,20.0,70.0,true,2016
+1,God Of War: Ragnarok,PS5,Action-Adventure,59.99,120.0,true,2025
