@@ -1,4 +1,4 @@
-# data_management_system_VideoGameCollectionManager_Phase3-CLI
+# data_management_system_VideoGameCollectionManager_Phase3-GUI
 
 A Java desktop application for organizing and maintaining a personal video game library. The application uses a gamer-themed dark mode interface and allows users to load a text file, manage game records, search and sort their collection, and export a backlog report.
 
